@@ -1,10 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HeesooSong&animation=twinkling&fontAlign=50&fontSize=50&desc=Use%90theme&descAlign=100&descAlignY=900&theme=radical&color=green&strokeWidth=3
 )
 ![우주](https://user-images.githubusercontent.com/108647584/177543899-0ba8c75e-d19e-4cc4-a321-8cbbd7f6c1f9.png)
-### Tech Stack
-![python](https://img.shields.io/badge/-python-blue)
-![javascript](https://img.shields.io/badge/-javascript-yellow)
-![java](https://img.shields.io/badge/-java-lightgrey)
 <!--
 **star2871/star2871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star2871&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star2871&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
