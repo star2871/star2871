@@ -1,5 +1,3 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=HeesooSong&animation=twinkling&fontAlign=50&fontSize=50&desc=Use%90theme&descAlign=100&descAlignY=900&theme=radical&color=green&strokeWidth=3
-)
 <!--
 **star2871/star2871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
